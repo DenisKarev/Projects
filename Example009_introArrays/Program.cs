@@ -16,4 +16,3 @@ int resu = Max(
     Max(arr[6], arr[7], arr[8]));
 
 Console.WriteLine(resu);
-arr.Length
