@@ -16,3 +16,10 @@ int resu = Max(
     Max(arr[6], arr[7], arr[8]));
 
 Console.WriteLine(resu);
+
+// int[] array0 = { 9, 28, 1, 32, 1990 };
+
+// int[] array1 = { 0, 0, 0, 0, 0 };
+// int[] array2 = new int[5];
+// int[] array3 = new int[] { 0, 0, 0, 0, 0 };
+// int[] array4 = new int[5] { 2, 2, 1, 4, 7 };
