@@ -6,3 +6,9 @@
 ### Example005_if_else
 ### Example006_Base
 ### Example007_Magic
+### Example008_Intro_Method
+### Example009_introArrays
+### Example010_MethodArray
+### Example011_ArrayLibrary
+### Example012_Methods
+### Example013_RecursionAlgorithm
